@@ -22,7 +22,7 @@
     "husky": "^6.0.0",
     "lint-staged": "^11.0.0",
     "prettier": "~2.2.1",
-    "prettier-plugin-svelte": "^2.2.0",
+    "prettier-plugin-svelte": "^2.5.0",
     "svelte": "^3.34.0",
     "svelte-check": "^2.2.10",
     "svelte-preprocess": "^4.9.8",
